@@ -1,0 +1,57 @@
+/* Importaciones */
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=Open+Sans&family=Roboto:wght@300&family=Sofia&display=swap');
+
+html{
+    background-color: black;
+    color: white;
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h2{
+    font-size: 45px;
+    color: rgb(85, 228, 195);
+}
+
+.name{
+    display: flex; 
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-right: 150px;
+    align-items: center;
+
+    /* border: 1px solid red; */
+}
+
+.boton{
+    border: 3px solid white;
+    border-radius: 5px;
+    font-size: 30px;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+
+}
+
+.icono{
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+    margin-left: 0px;
+}
+
+img{
+    margin-left: 300px;
+    width: 420px;
+    height: 420px;
+    margin-right: -200px;
+    /* border: 1px solid red; */
+}
+
